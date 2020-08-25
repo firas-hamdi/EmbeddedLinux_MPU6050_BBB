@@ -1,5 +1,5 @@
 # MPU6050_BBB
-Fetch data from the MPU6050 sensor 
+Print data fetched from the MPU6050 sensor using I2C peripheral
 
 **Single Board Computer:** Beaglebone Black Revision C
 
